@@ -4,7 +4,7 @@ public class ScannerClassTraining {
 
 
             public static void main(String[] args) {
-                Scanner sc = new Scanner(System.in); //Creating the object for scanner class and passing the input stream form the key board
+                Scanner sc = new Scanner(System.in); //Creating the object for scanner class and passing the input stream from the key board
                 System.out.println("Please Enter your name");
                 String name = sc.next(); //Setting the string value from the user input
                 System.out.println("Please Enter your gender - f or m");
