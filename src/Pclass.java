@@ -9,7 +9,7 @@ class Cclass extends Pclass{
 
     }
    }
-class Ans{
+class Answ{
     public static void main(String[] args){
         Pclass m = new Pclass();
         Cclass n = new Cclass();
